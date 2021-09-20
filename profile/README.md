@@ -1,4 +1,7 @@
+
+
 Build data-rich, responsive web apps much faster with Ignite UI - the most complete library of enterprise-grade JavaScript and .NET UI components available. Includes libraries for Angular, ASP.NET (Core and MVC), Blazor, jQuery, React, Web Components and more.
+<!-- <img title="Ignite UI spaceman" style="width: 20%;" src="https://static.infragistics.com/marketing/Website/products/Ignite-UI-for-Angular/astronaut-components.svg" alt="Ignite UI spaceman building a rocket"> -->
 
 ### Everything You Need to Build High-Performance Web Apps
 - UI components for everything - 100+ high-performance charts, grids and JavaScript UI components for frameworks including Angular, ASP.NET (Core & MVC), Blazor, jQuery, React and Web Components. And with responsive design built into our charts and grids – they are optimized with our many layout options.
@@ -15,3 +18,8 @@ Build data-rich, responsive web apps much faster with Ignite UI - the most compl
 - [Web Components](https://www.infragistics.com/products/ignite-ui-web-components) - A complete library of UI components, giving you the ability to build modern web applications using encapsulation and the concept of reusable components in a dependency-free approach.
 
 [Learn more from our official Ignite UI page.](https://www.infragistics.com/products/ignite-ui)
+
+### Follow us on
+
+- [Medium](https://medium.com/ignite-ui)
+..

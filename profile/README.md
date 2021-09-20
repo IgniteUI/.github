@@ -1,4 +1,3 @@
-# Ignite UI - from Infragistics
 Build data-rich, responsive web apps much faster with Ignite UI - the most complete library of enterprise-grade JavaScript and .NET UI components available. Includes libraries for Angular, ASP.NET (Core and MVC), Blazor, jQuery, React, Web Components and more.
 
 ### Everything You Need to Build High-Performance Web Apps

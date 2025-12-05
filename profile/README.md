@@ -19,7 +19,8 @@ Learn more:
 - Angular: [Open-Source vs Premium](https://www.infragistics.com/products/ignite-ui-angular/angular/components/general/open-source-vs-premium)
 - Blazor:  [Open-Source vs Premium](https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-open-source-vs-premium)
 - React: [Open-Source vs Premium](https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-open-source-vs-premium)
-- Web Components: [Open-Source vs Premium](https://www.infragistics.com/products/ignite-ui-web-components/web-components/components/general-open-source-vs-premium)  
+- Web Components: [Open-Source vs Premium](https://www.infragistics.com/products/ignite-ui-web-components/web-components/components/general-open-source-vs-premium)
+  
 Read our blog: [Open-Source Components Strategy](https://www.infragistics.com/blogs/open-source-components/)
 
 ---

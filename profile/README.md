@@ -1,18 +1,57 @@
 [![Discord](https://img.shields.io/discord/836634487483269200?logo=discord&logoColor=ffffff)](https://discord.gg/39MjrTRqds)
 
-Ignite UI is the most comprehensive UI library with hundreds of enterprise-grade UI controls and components for every major framework. It is your way for building better web apps in [Angular](https://www.infragistics.com/products/ignite-ui-angular), [Blazor](https://www.infragistics.com/products/ignite-ui-blazor), [Web Components](https://www.infragistics.com/products/ignite-ui-web-components), [React](https://www.infragistics.com/products/ignite-ui-react), [jQuery](https://www.infragistics.com/products/ignite-ui-jquery), [ASP.NET MVC](https://www.infragistics.com/products/ignite-ui-aspnet-mvc), and [ASP.NET Core](https://www.infragistics.com/products/ignite-ui-aspnet-core). 
+# Ignite UI – Enterprise-Grade UI Components for Modern Web Apps
 
- * It packs hundreds of UI components for every major web framework. 
- * Delivers the fastest data grids on the market with all the features a developer needs. 
- * Provides 65+ high-performant, customizable charts and series types. 
- * With tons of visualization options available, you can handle voluminous, real-time business, financial/stock, scientific and/or industry data in an instant. 
- * Also included UI controls that your users will love, like Spreadsheet, Excel Library, Pivot Grid, Hierarchical Grid and even a DockManager - a complete desktop-like windowing UX. 
+Ignite UI is a **comprehensive UI library** offering hundreds of enterprise-grade components for every major framework. Whether you’re building with [Angular](https://www.infragistics.com/products/ignite-ui-angular), [Blazor](https://www.infragistics.com/products/ignite-ui-blazor), [Web Components](https://www.infragistics.com/products/ignite-ui-web-components), [React](https://www.infragistics.com/products/ignite-ui-react), [jQuery](https://www.infragistics.com/products/ignite-ui-jquery), [ASP.NET MVC](https://www.infragistics.com/products/ignite-ui-aspnet-mvc), or [ASP.NET Core](https://www.infragistics.com/products/ignite-ui-aspnet-core), Ignite UI helps you deliver **fast, beautiful, and scalable apps**.
 
-But if you want to claim 80% of your development time and start building simplicity and beauty one app at a time, you can use Ignite UI along the [WYSIWYG drag & drop App Builder™](https://www.appbuilder.dev/). The low-code tool streamlines everything from design to code, letting you use a full UI toolbox to start a new project from scratch, choose from prebuilt templates, screens and starter layouts, or integrate Sketch and Adobe XD files (soon Figma) and turn them to production-ready Angular & Blazor code (Web Components and React next) with a single click. 
+---
 
-Check out related repositories: 
+## 🔍 Open-Source & Premium Strategy
 
-[Ignite UI for Angular](https://github.com/IgniteUI/igniteui-angular)  
-[Ignite UI for React](https://github.com/IgniteUI/igniteui-react)  
-[Ignite UI for Web Components](https://github.com/IgniteUI/igniteui-webcomponents)  
-[App Builder](https://github.com/IgniteUI/app-builder)
+Ignite UI now offers **Open-Source components under the MIT license** for Angular, React, Web Components and Blazor, giving developers free access to core UI functionality.
+
+For advanced scenarios, **Premium features** remain available through commercial licensing, including:
+- High-performance **Data Grid**, **Hierarchical Grid**, **Tree Grid** and **Pivot Grid** with full feature set
+- **Dock Manager**, **Spreadsheet**, **Charts library**, **Maps library**, **Excel library**, and other enterprise-grade controls
+- Dedicated support and guaranteed SLAs
+
+Learn more: 
+- Angular: [Open-Source vs Premium](https://www.infragistics.com/products/ignite-ui-angular/angular/components/general/open-source-vs-premium)
+- Blazor:  [Open-Source vs Premium](https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-open-source-vs-premium)
+- React: [Open-Source vs Premium](https://www.infragistics.com/products/ignite-ui-blazor/blazor/components/general-open-source-vs-premium)
+- Web Components: [Open-Source vs Premium](https://www.infragistics.com/products/ignite-ui-web-components/web-components/components/general-open-source-vs-premium)  
+Read our blog: [Open-Source Components Strategy](https://www.infragistics.com/blogs/open-source-components/)
+
+---
+
+## 🚀 Why to Choose Ignite UI?
+
+- **Fastest Data Grids** with advanced features for complex apps
+- **65+ High-Performance Charts** for financial, scientific, and real-time data visualization
+- **Enterprise Controls** for desktop-like UX
+- **Cross-Framework Consistency** – build once, scale everywhere
+- **Dock Manager** - the best layout control 
+
+---
+
+## 🛠 Accelerate Development with App Builder™
+
+Pair Ignite UI with [App Builder™](https://www.appbuilder.dev/) – our low-code WYSIWYG tool that streamlines design-to-code workflows:
+- Start from scratch or use prebuilt templates
+- Import Figma files and get your App in seconds
+- Generate production-ready Angular, React, Web Components & Blazor code
+
+---
+
+## 📚 Related Repositories
+
+- [Ignite UI for Angular](https://github.com/IgniteUI/igniteui-angular)  
+- [Ignite UI for React](https://github.com/IgniteUI/igniteui-react)  
+- [Ignite UI for Web Components](https://github.com/IgniteUI/igniteui-webcomponents)  
+- [Ignite UI for Blazor](https://github.com/IgniteUI/igniteui-blazor)  
+- [App Builder](https://github.com/IgniteUI/app-builder)  
+
+---
+
+### 💬 Join the Community
+Connect with us on [Discord](https://discord.gg/39MjrTRqds) and share feedback, ideas, or questions.

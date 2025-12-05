@@ -10,7 +10,7 @@ Ignite UI is a **comprehensive UI library** offering hundreds of enterprise-grad
 
 Ignite UI now offers **Open-Source components under the MIT license** for Angular, React, Web Components and Blazor, giving developers free access to core UI functionality.
 
-For advanced scenarios, **Premium features** remain available through commercial licensing, including:
+For advanced scenarios, **Premium components** remain available through commercial licensing, including:
 - High-performance **Data Grid**, **Hierarchical Grid**, **Tree Grid** and **Pivot Grid** with full feature set
 - **Dock Manager**, **Spreadsheet**, **Charts library**, **Maps library**, **Excel library**, and other enterprise-grade controls
 - Dedicated support and guaranteed SLAs

@@ -28,7 +28,7 @@ Read our blog: [Open-Source Components Strategy](https://www.infragistics.com/bl
 
 - **Fastest Data Grids** with advanced features for complex apps
 - **65+ High-Performance Charts** for financial, scientific, and real-time data visualization
-- **Enterprise Controls** for desktop-like UX
+- **Enterprise Controls** for every case you need, the best UI and UX
 - **Cross-Framework Consistency** – build once, scale everywhere
 - **Dock Manager** - the best layout control 
 

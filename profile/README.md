@@ -6,7 +6,7 @@ Ignite UI is a **comprehensive UI library** offering hundreds of enterprise-grad
 
 ---
 
-## 🔍 Open-Source & Premium Strategy
+## 🔍 Open-Source & Premium
 
 Ignite UI now offers **Open-Source components under the MIT license** for Angular, React, Web Components and Blazor, giving developers free access to core UI functionality.
 
